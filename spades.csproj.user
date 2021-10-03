@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ab_main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_dashboard_pop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_emp_atten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_leave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_staff_atten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_staff_leave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashboardemp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff_attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff_dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff_emp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff_emp_atten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff_emp_leave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff_profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staff_signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
