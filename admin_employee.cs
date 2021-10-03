@@ -84,7 +84,7 @@ namespace spades
             commands.CommandText = "DELETE FROM signup WHERE ID = '" + ID + "'";
             commands.ExecuteNonQuery();
             connection.Close();
-            MessageBox.Show("Successfully Deleted");
+            MessageBox.Show("Successfully Deleted!!!");
             admin_employee_Load(sender, e);
         }
         //leave
